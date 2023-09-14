@@ -1,0 +1,1 @@
+# custom-ami-on-aws
